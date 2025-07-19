@@ -1,6 +1,3 @@
-from django.db import models
-
-# Create your models here.
 import uuid
 from django.db import models
 from django.conf import settings # Used to reference the AUTH_USER_MODEL
